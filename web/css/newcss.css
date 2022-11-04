@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 03/11/2022, 08:32:30 PM
+    Author     : WillianPC
+*/
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background: #CAC531;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #F3F9A7, #CAC531);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #F3F9A7, #CAC531); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        width: 100%;
+    height: 100%;
+    letter-spacing: 0.03em;
+    line-height: 1.6;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+html{
+    scroll-behavior: smooth;
+    justify-content: center;    
+    margin: 0%;
+    padding: 0%;
+    
+}
